@@ -18,3 +18,5 @@ The datasets and trained toy model can be found at : https://drive.google.com/dr
 2. Place the training data text file in the same directory and start running the code. If training gets interrupted and you want to continue from where you left off, set the variable FIRST_TIME_RUNNING = False and NEED_TOKEN_CALCULATION = False to resume training.
 
 3. During training, the model and auxiliary code will be saved for future use.
+
+We provided the toy training dataset  xiaoshuo.txt to start training quickly.
